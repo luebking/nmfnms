@@ -1,0 +1,6 @@
+All icons and scripts released under terms of GPL
+Copyrights by Robert 'TheRob' Metsäranta, David Correra and Thomas Lübking
+
+The file "fingerprint.svg" was created 2009-10-28 by the Wikipedia user "Wilfridor" and is available
+under either GPL >= 1.2 or Creative Commons Attribution-Share Alike 3.0 Unported.
+It's as by today (2010-02-13) available from http://en.wikipedia.org/wiki/File:Fingerprint_picture.svg

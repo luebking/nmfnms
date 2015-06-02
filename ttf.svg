@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ttf.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5169109"
+     inkscape:cx="175.76294"
+     inkscape:cy="-13.586737"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="853"
+     inkscape:window-x="-4"
+     inkscape:window-y="-2"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3227"
+       empspacing="5"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:77.18734741px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.2870481;stroke-miterlimit:4;font-family:Segoe;-inkscape-font-specification:Segoe Bold"
+       d="M 2.0133817,32.777661 L 53.873631,32.777661 L 53.873631,43.745199 L 35.217509,43.745199 L 35.217509,89.047539 L 20.707192,89.047539 L 20.707192,43.745199 L 2.0133817,43.745199 L 2.0133817,32.777661 M 40.419189,32.777661 L 92.279438,32.777661 L 92.279438,43.745199 L 73.623317,43.745199 L 73.623317,89.047539 L 59.113,89.047539 L 59.113,43.745199 L 40.419189,43.745199 L 40.419189,32.777661 M 94.700258,32.777661 L 133.85927,32.777661 L 133.85927,43.745199 L 109.21057,43.745199 L 109.21057,54.222778 L 132.38939,54.222778 L 132.38939,65.190317 L 109.21057,65.190317 L 109.21057,89.047539 L 94.700258,89.047539 L 94.700258,32.777661"
+       id="text3408"
+       transform="scale(0.945898,1.0571965)" />
+  </g>
+</svg>

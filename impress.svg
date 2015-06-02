@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="impress.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2818">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2824" />
+    <inkscape:perspective
+       id="perspective2860"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6304203"
+     inkscape:cx="12.35477"
+     inkscape:cy="37.843206"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1158"
+     inkscape:window-height="757"
+     inkscape:window-x="257"
+     inkscape:window-y="310"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2826"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#010101;fill-opacity:1;stroke:none"
+       id="rect2843"
+       width="64"
+       height="8"
+       x="0"
+       y="8" />
+    <path
+       style="opacity:0.86000001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3615"
+       d="m 56,40 c 0,5.214901 -3.368111,9.832821 -8.333675,11.426059 L 44.00018,40 56,40 z" />
+    <path
+       style="opacity:0.57999998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3617"
+       d="m 44.00831,51.999811 c -3.794152,0.0026 -7.366012,-1.789385 -9.632244,-4.832381 L 44.00018,40 l 0.0081,11.999811 z" />
+    <path
+       style="opacity:0.18000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3623"
+       d="M 32.694486,44.022059 C 31.129596,39.623286 32.258154,34.71618 35.587478,31.443001 L 44.00018,40 32.694486,44.022059 z" />
+    <path
+       style="opacity:0.95999995;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3625"
+       d="m 36.832342,30.376181 c 0.966655,-0.719965 2.036263,-1.290185 3.172814,-1.691461 L 44.00018,40 36.832342,30.376181 z" />
+    <path
+       style="opacity:0.42000002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3627"
+       d="m 43.947911,28.000291 c 6.313344,-0.0275 11.568226,4.841682 12.021161,11.138822 L 44.00018,40 43.94791,28.000291 z" />
+    <rect
+       style="fill:#010101;fill-opacity:1;stroke:none;opacity:0.8"
+       id="rect2886"
+       width="16"
+       height="24"
+       x="8"
+       y="28" />
+    <rect
+       style="fill:#010101;fill-opacity:1;stroke:none;opacity:0.66"
+       id="rect2888"
+       width="32"
+       height="4"
+       x="16"
+       y="20" />
+  </g>
+</svg>

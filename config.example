@@ -1,0 +1,31 @@
+#!/bin/sh
+
+## CONFIGURATION FOR THE ICON GENERATION SCRIPT ####################################################
+#  Do NOT edit "config.example" but copy it to "config" and edit that file
+# "config.example" is NOT read by the script, only "config" (no suffix at all) is
+####################################################################################################
+
+## BASENAME ######
+# The basename for your icontheme, the color will be added to the string
+basename="nmfnms"
+
+## COLOR #########
+# The color can be empty color="", color= or entirely dropped (commented)
+# If given, it MUST be
+# - A VALID SYMBOL (black, white, blue, green, red, etc.) or
+# - A 32bit HEXADECIMAL notation, PREFIXED with a cross ('#'), case doesn't matter, but
+#      It MUST be DOUBLE quoted ("#12345678", the cross is a comment indicator to bash)
+# Example:
+#color="#2B74C7" # Apples blue
+
+## HALO ##########
+# A halo around the icon, works exactly like the color above
+halo="white"
+
+## ALPHA #########
+# The alpha level of the final icon in percent [0-100], i.e. how much transparent it will be
+alpha=85
+
+# keep an empty trailing line
+
+

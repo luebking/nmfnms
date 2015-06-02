@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46+devel"
+   sodipodi:docname="media-skip-backward.svg"
+   inkscape:export-filename="/home/rob/.kde4/share/icons/nmfnms/48x48/actions/media-skip-backward.png"
+   inkscape:export-xdpi="33.75"
+   inkscape:export-ydpi="33.75"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.75"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1162"
+     inkscape:window-height="1084"
+     inkscape:window-x="412"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36218)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 116.75 4 C 92.746062 8.71243 64.841045 20.34994 42.6875 33.21875 C 50.877863 38.20352 56.908637 46.37023 59.09375 56 L 112.4375 56 C 113.84949 41.33372 119.04057 26.66629 128 12 C 128 7.568 122.9825 4 116.75 4 z M 101.4375 16.6875 C 104.62854 16.6875 107.1875 18.51207 107.1875 20.78125 C 102.60028 28.29039 99.941686 35.80336 99.21875 43.3125 L 71.90625 43.3125 C 70.787472 38.38205 67.693466 34.20846 63.5 31.65625 C 74.842615 25.06742 89.147484 19.10026 101.4375 16.6875 z M 59.09375 72 C 56.908637 81.62972 50.877863 89.79655 42.6875 94.78125 C 64.841045 107.65005 92.746062 119.2876 116.75 124 C 122.9825 124 128 120.432 128 116 C 118.93248 101.3337 113.76803 86.66632 112.40625 72 L 59.09375 72 z M 71.90625 84.6875 L 99.1875 84.6875 C 99.884732 92.1966 102.54492 99.70955 107.1875 107.21875 C 107.1875 109.48795 104.62854 111.3125 101.4375 111.3125 C 89.147484 108.8998 74.842615 102.93255 63.5 96.34375 C 67.693466 93.79155 70.787472 89.6179 71.90625 84.6875 z "
+       transform="translate(0,924.36218)"
+       id="rect2836" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2881"
+       sodipodi:cx="24"
+       sodipodi:cy="64"
+       sodipodi:rx="24"
+       sodipodi:ry="24"
+       d="M 48,64 A 24,24 0 1 1 0,64 24,24 0 1 1 48,64 z"
+       transform="translate(0,924.36218)" />
+  </g>
+</svg>
