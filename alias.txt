@@ -210,3 +210,4 @@ media-seek-forward:actions/media-seek-forward
 media-playback-record:actions/media-record
 root:places/folder-red
 calibre:apps/calibre-gui
+bomi:apps/bomi
